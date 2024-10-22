@@ -1,4 +1,4 @@
-# Staff QA engineer pre-screen questions
+# Pre-screen questions
 
 ## Q1: Technical Test:  => Interest caluations -Jest Unit Tests
 
